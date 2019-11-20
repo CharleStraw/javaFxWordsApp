@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wordBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wordBox/dist/wordBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
