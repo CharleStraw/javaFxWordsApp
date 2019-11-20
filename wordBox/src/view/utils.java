@@ -43,7 +43,7 @@ public class utils {
       HashMap MAP =file.readList();
        
        
-        System.out.println("wordsbox.logic.getOdpowiedz()" +english);
+        System.out.println("wordsbox.logic.getOdpowiedz()uiouiouio" +english);
        
        String englishWord=(String) MAP.get(english);
         
